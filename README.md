@@ -1,7 +1,8 @@
 # Thành Viên
 | MSSV          | Họ tên                   | Nội Dung Thực Hiện                              |
 |---------------|--------------------------|-------------------------------------------------|
-| 2001190243    | Đinh Phát Tài            | Thực hiện toàn bộ nội dung đồ án                |
+| 2001190243    | Đinh Phát Tài            | Design - SQL - Phân Tích Nghiệp Vụ              |
+| 2001190249    | Lê Nguyễn Đại Đức Tâm    | Code Chính                                      |
 
 # PetStore-Java
 Phần mền quản lý cửa hàng thú cưng trên Java - Java pet store management software - Java Technology
